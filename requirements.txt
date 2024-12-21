@@ -11,6 +11,7 @@ git+https://github.com/Joelkb/cinemagoer
 datetime
 pytz
 aiohttp
+pyrofork
 
 PyLeaves==1.0.2
 cinemagoer
